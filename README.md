@@ -5,7 +5,8 @@ Repository contains all files corresponding to the course project for [UT Introd
 
 _Note: Data used in the project is taken from [eurostat database](https://ec.europa.eu/eurostat/data/database)._
 
-##Project Content
+## Project Content
+
 - ### Structure
    ```
    project-folder

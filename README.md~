@@ -1,0 +1,19 @@
+# Eurostat-HPIP
+House Price Index Prediction
+ 
+Repository contains all files corresponding to the course project for [UT Introduction to Data Science](https://courses.cs.ut.ee/2020/ids/fall)
+
+_Note: Data used in the project (accessed under data directory) is taken from [eurostat database](https://ec.europa.eu/eurostat/data/database)._
+
+##Project Content
+- ###Provided Data
+	- [house_price_index](https://ec.europa.eu/eurostat/databrowser/view/prc_hpi_a/default/table?lang=en): House price index (2015 = 100) - annual data
+	- [unemployment](https://ec.europa.eu/eurostat/databrowser/product/view/une_rt_a?lang=en): Unemployment by sex and age – annual data
+	- [income](https://ec.europa.eu/eurostat/databrowser/product/view/ilc_di03?lang=en):  Mean and median income by age and sex - EU-SILC and ECHP surveys
+	- [air_transport_national](https://ec.europa.eu/eurostat/databrowser/view/avia_tppa/default/table?lang=en): Passenger air transport over national territory (including territorial sea) - million passenger-km
+	- [tax_revenues](https://ec.europa.eu/eurostat/databrowser/view/env_ac_tax/default/table?lang=en): Environmental tax revenues
+- ### Data Analysis and Visualization
+
+- ### Models and Results
+
+

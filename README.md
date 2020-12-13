@@ -32,8 +32,10 @@ _Note: Data used in the project is taken from [eurostat database](https://ec.eur
 	- [e_techs](https://ec.europa.eu/eurostat/databrowser/view/isoc_bde15cbc/default/table?lang=en): E-banking and e-commerce
 	- [life_expectancy](https://ec.europa.eu/eurostat/databrowser/view/demo_mlexpec/default/table?lang=en): Life expectancy by age and sex
 
+- ### Data preparation
+  [Notebook](https://github.com/d1z0rz/hpip/blob/master/Dataset_Formatting.ipynb)
 - ### Data Analysis and Visualization
-
+  [Notebook](https://github.com/d1z0rz/hpip/blob/master/Correlations%20and%20visualisation.ipynb)
 - ### Models and Results
-
+  [Notebook](https://github.com/d1z0rz/hpip/blob/master/Models.ipynb)
 
